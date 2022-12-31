@@ -24,9 +24,15 @@
 | ------------- | ------------- |
 | ![5choicesFail](testImages/4choicesPass.png) | ![5choicesFail](testImages/4choicesFail.png)  |
 
+## FAQ
+* Does it works with questions more than 5?
+  - Yes, just update the admin section in testGrader.py file
+* Can I use multiple row number format sheet?
+  - Unfortunately, the code haven't support this feature yet
 
 ## Known limitation:
-* Not compatible with multiple row number format
+* Not compatible with multiple row number format sheet
+* Not compatible with low-res image
 
 ## future updates:
 * detect student's name 
