@@ -26,7 +26,7 @@
 
 ## FAQ
 * Does it works with questions more than 5?
-  - Yes, just update the admin section in testGrader.py file
+  - Yes, just update the admin section in [testGrader.py](testGrader.py) file
 * Can I use multiple row number format sheet?
   - Unfortunately, the code haven't support this feature yet
 
