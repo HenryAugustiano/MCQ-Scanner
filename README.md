@@ -33,7 +33,3 @@
 ## Known limitation:
 * Not compatible with multiple row number format sheet
 * Not compatible with low-res image
-
-## future updates:
-* detect student's name 
-
